@@ -13,3 +13,6 @@
 
 > [!IMPORTANT]  
 > Critical info everyone **must** read before continuing
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks
