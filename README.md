@@ -6,12 +6,6 @@ Welcome to my GitHub profile!
 
 ---
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdsNjYzZzZybWRzZzVnbGl2dnl0cjM2dWlyMzJrYm1uazlsemptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEyg6fn0RAYH76efh7/giphy.gif" alt="Necron Banner" />
-</p>
-
----
-
 <div align="center">
   
   ### Skills & Tools
