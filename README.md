@@ -6,9 +6,18 @@ Welcome to my GitHub profile!
 
 ---
 
-![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdsNjYzZzZybWRzZzVnbGl2dnl0cjM2dWlyMzJrYm1uazlsemptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEyg6fn0RAYH76efh7/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdsNjYzZzZybWRzZzVnbGl2dnl0cjM2dWlyMzJrYm1uazlsemptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEyg6fn0RAYH76efh7/giphy.gif" alt="Necron Banner" />
+</p>
 
-### Skills & Tools
+---
+
+<div align="center">
+  
+  ### Skills & Tools
+  
+</div>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height ="40"/>
