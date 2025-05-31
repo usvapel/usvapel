@@ -3,6 +3,7 @@
 Welcome to my GitHub profile!
 
 - Currently Studying at [Hive Helsinki](https://www.hive.fi/en) <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/42.png" alt="42" width="20" height="20"/>
+<a href="https://www.hive.fi/en" target="_blank" rel="noopener noreferrer">Hive Helsinki</a>
 
 ---
 
