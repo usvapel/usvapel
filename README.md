@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ---
 
-![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NzaWhlYWkycHR0bXg3ZHQ4bzlwZnN0M3pscTQ1cDF5cHNrNXhsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W0VXrK5sHszFSiY7LD/giphy.gif)
+![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdsNjYzZzZybWRzZzVnbGl2dnl0cjM2dWlyMzJrYm1uazlsemptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEyg6fn0RAYH76efh7/giphy.gif)
 
 ### Skills & Tools
 <p align="center">
