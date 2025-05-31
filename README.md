@@ -4,11 +4,11 @@
 
 Welcome to my GitHub profile!
 
-- 🌱 Currently Studying at Hive Helsinki
+- Currently Studying at Hive Helsinki
 
 ---
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
