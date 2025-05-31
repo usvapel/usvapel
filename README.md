@@ -4,10 +4,6 @@
 
 Welcome to my GitHub profile!
 
----
-
-## 🚀 About Me
-
 - 🌱 Currently Studying at Hive Helsinki
 
 ---
