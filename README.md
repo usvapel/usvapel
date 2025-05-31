@@ -6,6 +6,8 @@ Welcome to my GitHub profile!
 
 ---
 
+![Banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NzaWhlYWkycHR0bXg3ZHQ4bzlwZnN0M3pscTQ1cDF5cHNrNXhsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W0VXrK5sHszFSiY7LD/giphy.gif)
+
 ## Technologies & Tools
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -19,6 +21,18 @@ Welcome to my GitHub profile!
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=usvapel&icon=0&color=0)](https://visitcount.itsvg.in)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=usvapel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usvapel&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=usvapel)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Skills & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height ="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height ="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height ="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height ="40"/>
+
+</p>
 
 ---
