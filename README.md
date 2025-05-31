@@ -17,5 +17,8 @@ Welcome to my GitHub profile!
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-FF3C00?style=for-the-badge&logo=fluent&logoColor=white)
 [![GameMaker Studio 2](https://img.shields.io/badge/GameMaker%20Studio%202-FF5C00?style=for-the-badge&logo=gamemaker&logoColor=white)](https://www.yoyogames.com/gamemaker)
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=usvapel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
