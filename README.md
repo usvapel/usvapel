@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=jpelline&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 👋 Hi there!
+#  From the tomb, code rises. 💀
 
 Welcome to my GitHub profile!
 
