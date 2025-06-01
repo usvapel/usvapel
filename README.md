@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile!
 
-- Currently Studying at [Hive Helsinki](https://www.hive.fi/en) <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/42white.png" alt="42" width="20" height="20"/>
+- Currently Studying at [**Hive Helsinki**](https://www.hive.fi/en) <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/42white.png" alt="42" width="20" height="20"/>
+
+- Explore my 42 school projects in this [**Portfolio**](https://github.com/usvapel/Hive_Helsinki_Projects)
 
 ---
 
@@ -24,6 +26,8 @@ Welcome to my GitHub profile!
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
   <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="Fl-studio" width="30" height="40"/>
 </p>
+
+&nbsp;
 
 ---
 
