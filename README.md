@@ -16,16 +16,16 @@ Welcome to my GitHub profile!
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C Language"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Language" width="40" height="40" title="C Language"/>
   </a>
   <a href="https://git-scm.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   </a>
   <a href="https://neovim.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40" title="Neovim Editor"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim Editor" width="40" height="40" title="Neovim Editor"/>
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height="40" title="Visual Studio Code"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40" title="Visual Studio Code"/>
   </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" title="Bash"/>
@@ -39,7 +39,7 @@ Welcome to my GitHub profile!
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
   <a href="https://www.image-line.com/fl-studio/">
-    <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="FL-studio" width="30" height="40" title="FL Studio"/>
+    <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="FL studio" width="30" height="40" title="FL Studio"/>
   </a>
 </p>
 
