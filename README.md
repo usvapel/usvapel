@@ -43,7 +43,7 @@ A selection of academic projects focused on C programming, system development, a
 
 > **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*-->
 
-## Project Portfolio
+## Projects
 
 A selection of 42 School projects demonstrating my skills in low-level programming, system administration, and graphical programming.
 
@@ -79,8 +79,13 @@ A selection of 42 School projects demonstrating my skills in low-level programmi
 
 ---
 
+> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  
+
+<img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>  
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usvapel&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=usvapel)](https://github.com/ryo-ma/github-profile-trophy) -->
+<img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
