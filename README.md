@@ -27,7 +27,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## Projects
+<!--## Projects
 
 A selection of academic projects focused on C programming, system development, and low-level computing.
 
@@ -41,11 +41,46 @@ A selection of academic projects focused on C programming, system development, a
 | [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) | System administration project: secure VM setup, user/group policies, and monitoring via UFW and SSH. | Bash, Linux, VirtualBox | ![96](https://img.shields.io/badge/96-1?style=plastic) |
 | [**fractol**](https://github.com/usvapel/fract-ol) | Interactive fractal renderer supporting Mandelbrot, Burning Ship and Julia sets with zoom/pan capabilities. | C, MLX42, Graphics Programming | ![125](https://img.shields.io/badge/125-1?style=plastic) |
 
-> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*
+> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*-->
+
+## Project Portfolio
+
+A selection of 42 School projects demonstrating my skills in low-level programming, system administration, and graphical programming.
+
+### Core C Projects
+
+#### [**libft**](https://github.com/usvapel/libft) &nbsp;![Grade: 125](https://img.shields.io/badge/125-1?style=flat-square)
+> Custom implementation of the C standard library. Includes memory manipulation, string operations, and utility functions.  
+**Tech:** C, libc
+
+#### [**printf**](https://github.com/usvapel/printf) &nbsp;![Grade: 100](https://img.shields.io/badge/100-1?style=flat-square)
+> Recreation of the `printf` function from scratch, with support for formatted output and variadic arguments.  
+**Tech:** C, Variadic Functions
+
+#### [**get_next_line**](https://github.com/usvapel/get_next_line) &nbsp;![Grade: 100](https://img.shields.io/badge/100-1?style=flat-square)
+> Line-by-line file reader using buffered input and static memory allocation.  
+**Tech:** C, File I/O
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usvapel&layout=compact&theme=radical)
+### System & Security
+
+#### [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) &nbsp;![Grade: 96](https://img.shields.io/badge/96-1?style=flat-square)
+> Virtual machine hardening and system administration. Setup includes user/group permissions, firewall (UFW), and SSH configuration.  
+**Tech:** Bash, Linux, VirtualBox
+
+---
+
+### Graphics & Interactivity
+
+#### [**fract-ol**](https://github.com/usvapel/fract-ol) &nbsp;![Grade: 125](https://img.shields.io/badge/125-1?style=flat-square)
+> Fractal renderer for Mandelbrot, Julia, and Burning Ship sets with zoom and pan interactivity.  
+**Tech:** C, MLX42, Graphics Programming
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usvapel&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=usvapel)](https://github.com/ryo-ma/github-profile-trophy) -->
-
----
