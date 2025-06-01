@@ -15,16 +15,32 @@ Welcome to my GitHub profile!
 </div>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C Language"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height ="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height ="40" title="Neovim Editor"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height ="40" title="Visual Studio Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height ="40" title="Bash"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="40" height="40" title="Oracle VirtualBox"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C Language"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+  </a>
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40" title="Neovim Editor"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height="40" title="Visual Studio Code"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" title="Bash"/>
+  </a>
+  <a href="https://www.virtualbox.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="40" height="40" title="Oracle VirtualBox"/>
+  </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
-  <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker" width="40" height="40" title="Gamemaker Studio 2"/>
+  <a href="https://gamemaker.io/en" target="_blank">
+    <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker" width="40" height="40" title="Gamemaker Studio 2"/>
+  </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
-  <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="Fl-studio" width="30" height="40" title="FL Studio"/>
+  <a href="https://www.image-line.com/fl-studio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="Fl-studio" width="30" height="40" title="FL Studio"/>
+  </a>
 </p>
 
 &nbsp;
