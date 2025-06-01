@@ -47,8 +47,6 @@ A selection of academic projects focused on C programming, system development, a
 
 > **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*-->
 
-<img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>  
-  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usvapel&layout=compact&theme=radical" alt="Top Languages" />
 </div>
