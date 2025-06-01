@@ -15,30 +15,30 @@ Welcome to my GitHub profile!
 </div>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C Language"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
   </a>
-  <a href="https://neovim.io/" target="_blank">
+  <a href="https://neovim.io/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height="40" title="Neovim Editor"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height="40" title="Visual Studio Code"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" title="Bash"/>
   </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
+  <a href="https://www.virtualbox.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" alt="Oracle VirtualBox" width="40" height="40" title="Oracle VirtualBox"/>
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
-  <a href="https://gamemaker.io/en" target="_blank">
+  <a href="https://gamemaker.io/en">
     <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker Studio 2" width="40" height="40" title="Gamemaker Studio 2"/>
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
-  <a href="https://www.image-line.com/fl-studio/" target="_blank">
+  <a href="https://www.image-line.com/fl-studio/">
     <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="FL-studio" width="30" height="40" title="FL Studio"/>
   </a>
 </p>
