@@ -31,15 +31,15 @@ Welcome to my GitHub profile!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" title="Bash"/>
   </a>
   <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="40" height="40" title="Oracle VirtualBox"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" alt="Oracle VirtualBox" width="40" height="40" title="Oracle VirtualBox"/>
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
   <a href="https://gamemaker.io/en" target="_blank">
-    <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker" width="40" height="40" title="Gamemaker Studio 2"/>
+    <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker Studio 2" width="40" height="40" title="Gamemaker Studio 2"/>
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
   <a href="https://www.image-line.com/fl-studio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="Fl-studio" width="30" height="40" title="FL Studio"/>
+    <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="FL-studio" width="30" height="40" title="FL Studio"/>
   </a>
 </p>
 
