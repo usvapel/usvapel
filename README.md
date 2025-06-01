@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 - Currently Studying at [**Hive Helsinki**](https://www.hive.fi/en) <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/42white.png" alt="42" width="20" height="20"/>
 
-- Explore my 42 school projects in this [**Portfolio**](https://github.com/usvapel/Hive_Helsinki_Projects)
+- Explore my finished projects at Hive Helsinki in this [**Portfolio**](https://github.com/usvapel/Hive_Helsinki_Projects)
 
 ---
 
