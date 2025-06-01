@@ -18,9 +18,9 @@ Welcome to my GitHub profile!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height ="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height ="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height ="40"/>
-  <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/virtualbox.png" alt="Virtualbox" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="40" height="40"/>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
-  <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/gamemaker.png" alt="Gamemaker" width="40" height="40"/>
+  <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker" width="40" height="40"/>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
   <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="Fl-studio" width="30" height="40"/>
 </p>
