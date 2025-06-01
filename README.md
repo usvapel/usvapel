@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 
 A selection of academic projects focused on C programming, system development, and low-level computing.
 
-### 📂 Project Portfolio
+### Project Portfolio
 
 | Project | Description | Technologies | Grade |
 |--------|-------------|--------------|:-----:|
@@ -41,8 +41,7 @@ A selection of academic projects focused on C programming, system development, a
 | [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) | System administration project: secure VM setup, user/group policies, and monitoring via UFW and SSH. | Bash, Linux, VirtualBox | ![96](https://img.shields.io/badge/96-1?style=plastic) |
 | [**fractol**](https://github.com/usvapel/fract-ol) | Interactive fractal renderer supporting Mandelbrot, Burning Ship and Julia sets with zoom/pan capabilities. | C, MLX42, Graphics Programming | ![125](https://img.shields.io/badge/125-1?style=plastic) |
 
-
-> ! *All projects were developed as part of the 42 curriculum. Grades reflect evaluation performance.*
+> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*
 
 ---
 
