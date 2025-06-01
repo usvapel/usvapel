@@ -45,49 +45,7 @@ A selection of academic projects focused on C programming, system development, a
 | [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) | System administration project: secure VM setup, user/group policies, and monitoring via UFW and SSH. | Bash, Linux, VirtualBox | ![96](https://img.shields.io/badge/96-1?style=plastic) |
 | [**fractol**](https://github.com/usvapel/fract-ol) | Interactive fractal renderer supporting Mandelbrot, Burning Ship and Julia sets with zoom/pan capabilities. | C, MLX42, Graphics Programming | ![125](https://img.shields.io/badge/125-1?style=plastic) |
 
-> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*-
-
-## Projects
-
-Projects completed at 42 School, focusing on C programming, system administration, and graphics.
-
-### Core C Projects
-
-#### [**libft**](https://github.com/usvapel/libft) &nbsp;![Grade: 125](https://img.shields.io/badge/125-1?style=flat-square)
-> A custom implementation of key components of the **C** standard library, focusing on memory manipulation functions (such as `memcpy`, `memset`), string handling routines (`strlen`, `strcpy`, `strcmp`), and various utility functions for character processing and data conversion. This implementation provides core functionality often used in **C** programming.  
-**Tech:** C, libc
-
-#### [**printf**](https://github.com/usvapel/printf) &nbsp;![Grade: 100](https://img.shields.io/badge/100-1?style=flat-square)
-> Recreation of the `printf` function from scratch, supporting formatted output with variadic arguments.
-Handles basic conversion specifiers including `%s` (string), `%d` and `%i` (signed integers), `%c` (character), `%x` and `%X` (hexadecimal), `%p` (pointer), `%u` (unsigned integer), and literal `%%`.  
-**Tech:** C, Variadic Functions
-
-#### [**get_next_line**](https://github.com/usvapel/get_next_line) &nbsp;![Grade: 100](https://img.shields.io/badge/100-1?style=flat-square)
-> A line-by-line file reader using **static** memory allocation.
-Reads from a file descriptor and returns one line at a time, preserving leftover data between calls via a static buffer.
-The read buffer size is defined at compile-time via **BUFFER_SIZE**, allowing customizable performance and memory usage trade-offs.  
-**Tech:** C, File I/O
-
----
-
-### System & Security
-
-#### [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) &nbsp;![Grade: 96](https://img.shields.io/badge/96-1?style=flat-square)
-> Virtual machine hardening and system administration, including configuration of user and group permissions, firewall rules via **UFW**, and secure **SSH** setup.  
-**Tech:** Bash, Linux, VirtualBox
-
----
-
-### Graphics & Interactivity
-
-#### [**fract-ol**](https://github.com/usvapel/fract-ol) &nbsp;![Grade: 125](https://img.shields.io/badge/125-1?style=flat-square)
-> A fractal rendering application supporting the **Mandelbrot**, **Julia**, and **Burning Ship** sets, featuring interactive zooming and panning capabilities.
-The program includes dynamic color shifting and displays a secondary **Julia** set visualization that updates in real-time based on the cursor position within the primary **Mandelbrot** or **Burning Ship** fractal.  
-**Tech:** C, MLX42, Graphics Programming
-
----
-
-> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  -->
+> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*-->
 
 <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>  
   
