@@ -45,7 +45,7 @@ A selection of academic projects focused on C programming, system development, a
 
 ## Projects
 
-A selection of 42 School projects demonstrating my skills in low-level programming, system administration, and graphical programming.
+Projects completed at 42 School, focusing on C programming, system administration, and graphics.
 
 ### Core C Projects
 
