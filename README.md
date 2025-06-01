@@ -41,7 +41,7 @@ A selection of academic projects focused on C programming, system development, a
 | [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) | System administration project: secure VM setup, user/group policies, and monitoring via UFW and SSH. | Bash, Linux, VirtualBox | ![96](https://img.shields.io/badge/96-1?style=plastic) |
 | [**fractol**](https://github.com/usvapel/fract-ol) | Interactive fractal renderer supporting Mandelbrot, Burning Ship and Julia sets with zoom/pan capabilities. | C, MLX42, Graphics Programming | ![125](https://img.shields.io/badge/125-1?style=plastic) |
 
-> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*-->
+> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*-
 
 ## Projects
 
@@ -83,7 +83,7 @@ The program includes dynamic color shifting and displays a secondary **Julia** s
 
 ---
 
-> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  
+> **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*  -->
 
 <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>  
   
