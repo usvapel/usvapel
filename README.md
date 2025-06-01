@@ -15,16 +15,16 @@ Welcome to my GitHub profile!
 </div>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height ="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height ="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height ="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height ="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40" title="C Language"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height ="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim" width="40" height ="40" title="Neovim Editor"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" width="40" height ="40" title="Visual Studio Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height ="40" title="Bash"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/VirtualBox_2024_Logo.svg" width="40" height="40" title="Oracle VirtualBox"/>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
-  <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker" width="40" height="40"/>
+  <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker" width="40" height="40" title="Gamemaker Studio 2"/>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
-  <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="Fl-studio" width="30" height="40"/>
+  <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/flstudio.png" alt="Fl-studio" width="30" height="40" title="FL Studio"/>
 </p>
 
 &nbsp;
