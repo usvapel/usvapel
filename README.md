@@ -35,11 +35,11 @@ A selection of academic projects focused on C programming, system development, a
 
 | Project | Description | Technologies | Grade |
 |--------|-------------|--------------|:-----:|
-| [**libft**](https://github.com/usvapel/libft) | Custom standard library in C, implementing memory manipulation, string operations, and utility functions. | C, libc | <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/125.svg" alt="125" /> |
-| [**printf**](https://github.com/usvapel/printf) | Recreation of the `printf` function, handling formatted output and variadic arguments. | C, Variadic Functions | ![100](https://img.shields.io/badge/100-brightgreen) |
-| [**get_next_line**](https://github.com/usvapel/get_next_line) | Line-by-line file reader using buffered input and static memory. | C, File I/O | ![100](https://img.shields.io/badge/100-brightgreen) |
-| [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) | System administration project: secure VM setup, user/group policies, and monitoring via UFW and SSH. | Bash, Linux, VirtualBox | ![96](https://img.shields.io/badge/96-brightgreen) |
-| [**fractol**](https://github.com/usvapel/fract-ol) | Interactive fractal renderer supporting Mandelbrot, Burning Ship and Julia sets with zoom/pan capabilities. | C, MLX42, Graphics Programming | ![125](https://img.shields.io/badge/125-brightgreen) |
+| [**libft**](https://github.com/usvapel/libft) | Custom standard library in C, implementing memory manipulation, string operations, and utility functions. | C, libc | ![125](https://img.shields.io/badge/125-1?style=plastic)  |
+| [**printf**](https://github.com/usvapel/printf) | Recreation of the `printf` function, handling formatted output and variadic arguments. | C, Variadic Functions | ![100](https://img.shields.io/badge/100-1?style=plastic) |
+| [**get_next_line**](https://github.com/usvapel/get_next_line) | Line-by-line file reader using buffered input and static memory. | C, File I/O | ![100](https://img.shields.io/badge/100-1?style=plastic) |
+| [**Born2BeRoot**](https://github.com/usvapel/born2BeRoot) | System administration project: secure VM setup, user/group policies, and monitoring via UFW and SSH. | Bash, Linux, VirtualBox | ![96](https://img.shields.io/badge/96-1?style=plastic) |
+| [**fractol**](https://github.com/usvapel/fract-ol) | Interactive fractal renderer supporting Mandelbrot, Burning Ship and Julia sets with zoom/pan capabilities. | C, MLX42, Graphics Programming | ![125](https://img.shields.io/badge/125-1?style=plastic) |
 
 
 > ! *All projects were developed as part of the 42 curriculum. Grades reflect evaluation performance.*
