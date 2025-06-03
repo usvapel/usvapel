@@ -37,7 +37,11 @@ Welcome to my GitHub profile!
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
   <a href="https://gamemaker.io/en">
-    <img src="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Gamemaker Studio 2" width="40" height="40" title="Gamemaker Studio 2"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/gamemakerblack.svg">
+      <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/gamemakerblack.svg" alt="Gamemaker Studio 2" width="40" height="40" title="Gamemaker Studio 2">
+    </picture>
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
   <a href="https://www.image-line.com/fl-studio/">
