@@ -19,9 +19,9 @@ Welcome to my GitHub profile!
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C Language" width="40" height="40" title="C Language"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/c/original.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/c/original.svg">
+      <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="C Language" width="40" height="40" title="C Language"/>
     </picture>
   </a>
   <a href="https://git-scm.com/">
