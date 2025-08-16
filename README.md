@@ -24,6 +24,13 @@ Welcome to my GitHub profile!
       <img src="https://devicon-website.vercel.app/api/c/original.svg" alt="C Language" width="40" height="40" title="C Language"/>
     </picture>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/cplusplus/original.svg"> 
+      <source media="(prefers-color-scheme: light)" srcset="https://devicon-website.vercel.app/api/cplusplus/original.svg">
+      <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" alt="C Language" width="40" height="40" title="C++ Language"/>
+    </picture>
+  </a>
   <a href="https://git-scm.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
