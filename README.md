@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
   <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/42white.png#gh-dark-mode-only" alt="42" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/42black.png#gh-light-mode-only" alt="42" width="20" height="20"/>
   
-- [**Hive Projects**](https://github.com/usvapel/Hive_Helsinki_Projects)
+- [**Hive projects**](https://github.com/usvapel/Hive_Helsinki_Projects)
 
 ---
 
