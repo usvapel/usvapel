@@ -103,10 +103,10 @@ A selection of academic projects focused on C programming, system development, a
 | [**fractol**](https://github.com/usvapel/fract-ol) | Interactive fractal renderer supporting Mandelbrot, Burning Ship and Julia sets with zoom/pan capabilities. | C, MLX42, Graphics Programming | ![125](https://img.shields.io/badge/125-1?style=plastic) |
 
 > **!** &nbsp;&nbsp; *All projects were completed as part of the 42 curriculum. Grades reflect evaluation results.*-->
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usvapel&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
+-->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=usvapel)](https://github.com/ryo-ma/github-profile-trophy) -->
 <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
