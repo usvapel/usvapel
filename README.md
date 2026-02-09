@@ -67,11 +67,11 @@ Welcome to my GitHub profile!
     </picture>
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
-  <a href="https://gamemaker.io/en">
+  <a href="https://www.docker.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.brandfetch.io/idLXVOChpM/w/180/h/180/theme/light/logo.png?c=1dxbfHSJFAPEGdCLU4o5B">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/gamemakerblack.svg">
-      <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/gamemakerblack.svg" alt="Gamemaker Studio 2" width="40" height="40" title="Gamemaker Studio 2">
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" title="Docker">
     </picture>
   </a>
   <img src="https://via.placeholder.com/10x40/00000000/00000000" width="1" height="40"/>
